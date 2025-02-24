@@ -20,27 +20,44 @@ AI agents are a growing paradigm in software that help perform complex tasks usi
 3. **Deploying on ICP:** Utilize **Motoko** or **Rust** to integrate the AI agent into a smart contract.  
 4. **Enabling On-Chain Interaction:** AI agents can communicate with other canisters (smart contracts) and external data sources using **HTTPS outcalls** or **oracles**.  
 
-#### **Example AI Agent Projects**  
-Here are some AI agents that could be built during the Botathon:  
-Example Demo:https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io/
+#### **Example AI Agent Projects** 
+# Example Demo:https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io/
 
+
+Here are some AI agents that could be built during the Botathon: 
+ **Command bots** which accept a command from an OpenChat user from within the OpenChat interface.
+- **Integration bots** which accept a command from an external system using an API key.
+- **Autonomous bots** which generate their own commands and interact with the OpenChat backend autonomously.
 - **On-Chain Trading Bot** – An AI agent that analyzes price trends and executes trades autonomously.  
 - **Decentralized AI Chatbot** – A chatbot that interacts with users on ICP-based platforms like OpenChat.  
 - **Fraud Detection Agent** – AI that scans on-chain transactions for suspicious activity.  
 - **NFT Recommendation Engine** – An AI-powered tool that suggests NFTs based on user behavior.  
 - **Smart Contract Auditor** – AI that analyzes ICP smart contracts for vulnerabilities.  
 
+
+
+#### **Refer to this Repositories below** 
+
+## https://github.com/open-chat-labs/open-chat-bots.git
+## https://github.com/ldclabs/anda.git~
+## https://github.com/onicai/ic_llm_notebook.git
+## https://github.com/Tevin-Isaac/ic-eliza-eth-wallet-agent.git
+## https://github.com/asDNSk/eliza.git
+## https://github.com/elna-ai/ELNA-DApp.git
+## https://github.com/ICP-Hub-Kenya/DeAI.git
+
+
+
+
 #### **How to Participate**  
-1. **Fork the repository** and explore starter templates.  
+1. **Fork the repositories above** and explore starter templates.  
 2. **Join the community discussions** on OpenChat and Twitter.  
 3. **Start coding your AI agent** using Motoko/Rust.  
-4. **Blog** https://medium.com/dfinity/deai-agent-economy-icp-as-new-home-for-autonomous-agents-edc2c04ceb32. 
+4. **Read this Blog** https://medium.com/dfinity/deai-agent-economy-icp-as-new-home-for-autonomous-agents-edc2c04ceb32. 
 
 
 
  # Manifesto for Decentralized AI (DeAI)
-
-## Preamble
 
 In an era where Artificial Intelligence (AI) is increasingly central to our daily lives, this ubiquitous use of AI in applications ranging from mundane to critical tasks has powerful forces racing to establish control; the power over these transformative technologies, though, must not be confined to a few centralized entities. The Internet has brought tremendous decentralization of access to information and ease of communication, but also the centralization of power and corporate ownership of data. This trend will worsen if left unchecked. The principles of Decentralized AI (DeAI) can reverse this trend if users and application developers recognize its importance to their long-term welfare.
 
