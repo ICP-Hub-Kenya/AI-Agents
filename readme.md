@@ -38,13 +38,13 @@ Here are some AI agents that could be built during the Botathon:
 
 #### **Refer to this Repositories below** 
 
-# https://github.com/open-chat-labs/open-chat-bots.git
-# https://github.com/ICP-Hub-Kenya/DeAI.git
-# https://github.com/ldclabs/anda.git~
-# https://github.com/onicai/ic_llm_notebook.git
-# https://github.com/kristoferlund/ic-eliza-eth-wallet-agent
-# https://github.com/asDNSk/eliza.git
-# https://github.com/elna-ai/ELNA-DApp.git
+* https://github.com/open-chat-labs/open-chat-bots.git
+* https://github.com/ICP-Hub-Kenya/DeAI.git
+* https://github.com/ldclabs/anda.git~
+* https://github.com/onicai/ic_llm_notebook.git
+* https://github.com/kristoferlund/ic-eliza-eth-wallet-agent
+* https://github.com/asDNSk/eliza.git
+* https://github.com/elna-ai/ELNA-DApp.git
 
 
 
