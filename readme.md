@@ -1,8 +1,8 @@
 
-### **Botathon: Building On-Chain AI Agents on ICP**  
+ 
 ![Image](https://github.com/user-attachments/assets/7816c508-6111-4133-bcaf-de3aaf955a00)
+### **Botathon: Building On-Chain AI Agents on ICP** 
 
-#### **Overview**  
 The **Botathon** is a developer-focused event where participants will build **AI agents on-chain** using the **Internet Computer Protocol (ICP)**. These AI agents will leverage the power of **decentralized computation**, ensuring transparency, autonomy, and on-chain execution.  
 
 #### **What Are AI Agents?**  
