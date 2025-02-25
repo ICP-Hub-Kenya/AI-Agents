@@ -2,6 +2,8 @@
 
 SDKs for building Bots for OpenChat with examples
 
+* watch this video https://www.youtube.com/live/AerXWzBnsNE?si=J0GiLPgR2KrKtHEc
+
 ## What kind of bots can I build?
 
 There are broadly three different categories of bot that OpenChat currently supports.
