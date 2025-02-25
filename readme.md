@@ -21,7 +21,8 @@ AI agents are a growing paradigm in software that help perform complex tasks usi
 4. **Enabling On-Chain Interaction:** AI agents can communicate with other canisters (smart contracts) and external data sources using **HTTPS outcalls** or **oracles**.  
 
 #### **Example AI Agent Projects** 
-  Demo:https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io/
+  - Demo:https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io/
+  - [Source code](https://github.com/dfinity/llm/tree/main/examples/quickstart-agent-rust)
 
 
 Here are some AI agents that could be built during the Botathon: 
