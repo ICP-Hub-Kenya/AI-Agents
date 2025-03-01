@@ -21,8 +21,12 @@ AI agents are a growing paradigm in software that help perform complex tasks usi
 4. **Enabling On-Chain Interaction:** AI agents can communicate with other canisters (smart contracts) and external data sources using **HTTPS outcalls** or **oracles**.  
 
 #### **Example AI Agent Projects** 
-  - Demo:https://vgjrt-uyaaa-aaaal-qsiaq-cai.icp0.io/
-  - [Source code](https://github.com/dfinity/llm/tree/main/examples/quickstart-agent-rust)
+  - [Elna AI](https://www.elna.ai/): a marketplace for creating and monetizing AI Agents.
+  - [Seers App](https://www.seers.app/): allows users to create and manage AI agents on X (formerly Twitter). These agents can respond to posts when tagged, simulating human-like interactions on social media.
+  - [DCA Agent](https://github.com/ic-alloy/ic-alloy-dca): An example of a Dollar Cost Average (DCA) agent that can autonomously swap tokens on Uniswap based on predefined intervals.
+  - [ArcMind AI](https://arcmindai.app/): An autonomous agent that uses chain of thoughts for reasoning and actions. It can interact with the world in real-time and uses a Vector DB for long-term memory storage.
+
+Check out more [here](https://internetcomputer.org/ai-agents)
 
 
 Here are some AI agents that could be built during the Botathon: 
