@@ -1,9 +1,9 @@
 
  
 ![Image](https://github.com/user-attachments/assets/7816c508-6111-4133-bcaf-de3aaf955a00)
-### **Botathon: Building On-Chain AI Agents on ICP** 
+### **Building On-Chain AI Agents on ICP** 
 
-The **Botathon** is a developer-focused event where participants will build **AI agents on-chain** using the **Internet Computer Protocol (ICP)**. These AI agents will leverage the power of **decentralized computation**, ensuring transparency, autonomy, and on-chain execution.  
+People can now build **AI agents on-chain** using the **Internet Computer Protocol (ICP)**. These AI agents will leverage the power of **decentralized computation**, ensuring transparency, autonomy, and on-chain execution.  
 
 #### **What Are AI Agents?**  
 AI agents are **autonomous programs** that can analyze data, make decisions, and execute tasks based on predefined logic. By deploying AI agents **on-chain**, we ensure that they operate without centralized control, enhancing security and trust.
@@ -29,7 +29,7 @@ AI agents are a growing paradigm in software that help perform complex tasks usi
 Check out more [here](https://internetcomputer.org/ai-agents)
 
 
-Here are some AI agents that could be built during the Botathon: 
+Here are some AI agents that someone can build: 
  **Command bots** which accept a command from an OpenChat user from within the OpenChat interface.
 - **Integration bots** which accept a command from an external system using an API key.
 - **Autonomous bots** which generate their own commands and interact with the OpenChat backend autonomously.
@@ -43,16 +43,13 @@ Here are some AI agents that could be built during the Botathon:
 
 #### **Refer to this Repositories below** 
 
-* https://github.com/open-chat-labs/open-chat-bots.git
-* https://github.com/ICP-Hub-Kenya/DeAI.git
-* https://github.com/ldclabs/anda.git~
-* https://github.com/onicai/ic_llm_notebook.git
-* https://github.com/kristoferlund/ic-eliza-eth-wallet-agent
-* https://github.com/asDNSk/eliza.git
-* https://github.com/elna-ai/ELNA-DApp.git
-
-
-
+* [Open Chat Bots](https://github.com/open-chat-labs/open-chat-bots.git)
+* [ICP Hub Kenya DeAI Repository](https://github.com/ICP-Hub-Kenya/DeAI.git)
+* [Anda Framework](https://github.com/ldclabs/anda.git)
+* [IC LLM Notebook](https://github.com/onicai/ic_llm_notebook.git)
+* [Eliza Eth Wallet Agent](https://github.com/kristoferlund/ic-eliza-eth-wallet-agent)
+* [Eliza](https://github.com/asDNSk/eliza.git)
+* [ELNA DApp](https://github.com/elna-ai/ELNA-DApp.git)
 
 
 #### **How to Participate**  
@@ -62,8 +59,7 @@ Here are some AI agents that could be built during the Botathon:
 4. **Read this Blog** https://medium.com/dfinity/deai-agent-economy-icp-as-new-home-for-autonomous-agents-edc2c04ceb32. 
 
 
-
- # Manifesto for Decentralized AI (DeAI)
+# Manifesto for Decentralized AI (DeAI)
 
 In an era where Artificial Intelligence (AI) is increasingly central to our daily lives, this ubiquitous use of AI in applications ranging from mundane to critical tasks has powerful forces racing to establish control; the power over these transformative technologies, though, must not be confined to a few centralized entities. The Internet has brought tremendous decentralization of access to information and ease of communication, but also the centralization of power and corporate ownership of data. This trend will worsen if left unchecked. The principles of Decentralized AI (DeAI) can reverse this trend if users and application developers recognize its importance to their long-term welfare.
 
